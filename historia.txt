@@ -1,0 +1,5 @@
+Este es el archivo de prueba.
+
+archivo de pruba de la clase de git.
+
+Para iniciar a entender su funcionamiento.
