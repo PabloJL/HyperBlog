@@ -2,4 +2,4 @@ Este es el archivo de prueba.
 
 archivo de pruba de la clase de git.
 
-Para iniciar a entender sus comandos editando.
+Para hoy hablaremos de su vida
